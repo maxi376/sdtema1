@@ -1,5 +1,7 @@
 # sdtema1
-Hello. This is a .NET project that creates a web application for: 
+Hello. This is a .NET project that creates a web application and the role is understanding Request-Reply Communication.
+
+The Client requirement are as follows:
 Energy Management System that consists of a frontend and two microservices
 designed to manage users and their associated smart energy metering devices. The system can be
 accessed by two types of users after a login process: administrator (manager), and clients. The
